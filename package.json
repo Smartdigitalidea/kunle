@@ -1,7 +1,8 @@
 {
-  "name": "react-example",
+  "name": "nathan-king-luxury-builder",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Premium landing page for Nathan King, Luxury Master Builder specializing in architectural craftsmanship.",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
